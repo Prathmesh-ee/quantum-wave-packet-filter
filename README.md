@@ -96,7 +96,7 @@ This validates that the filter modeled in the Python simulation matches real ana
 The RC low-pass filter was taken from schematic to a manufacturable PCB layout in KiCad.
 
 ![PCB Layout](pcb_layout.png)
-![PCB Schematic](schematic.png)
+![PCB Schematic](pcb_schematic.png)
 
 
 **Components:**
